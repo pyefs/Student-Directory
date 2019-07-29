@@ -1,0 +1,126 @@
+10 Life-Changing Reasons You Should Learn to Code
+Laurence Bradford
+
+Do you know that sinking feeling you get when you realize you have NO IDEA what you’re going to do next? When you make it to the final round of interviews and you don’t get the job. Or, when you stroll up to work, the front door is bolted, and a sign says “Sorry, we’re shutting down”? (That actually happened to my friend – no joke.)
+
+Or how about when you take a long, hard look at yourself and realize you actually cannot decide “what you want to do with your life”? There are too many things in there! Too many passions. Choosing a career as a lawyer means giving up your dream of being a touring singer-songwriter, and following your love of coffee to the mountains of Peru means letting that dream of being an interior designer fall to the wayside.
+
+But what if it didn’t have to be that way? Sure, you’ll always have to make decisions, but what if it didn’t have to be so black and white? What if you could do 3 things you love rather than 1, or what if you could decide to kindle your passion AND make the big bucks?
+
+Laurence Bradford gets it. Like many of us she was trying to puzzle together her education, her dreams, and the logistics of making rent into a career path that makes sense. The answer she came up with is seriously inspiring, and, as you might have guessed, it involved picking up some pretty snazzy coding skills.
+10 Ways My Life Changed When I Learned to Code
+Upon college graduation back in May 2012, I didn’t have a sense of relief. Instead, it finally dawned on me that as a history major, I was doomed.
+
+What I mean is: I had relatively few career options. Either I had to switch paths or go back to school for a graduate degree.
+
+Rather than making the decision right away, I chose to go to Thailand to teach English. Like they always do, one thing led to another. In this instance, my travel blog led me to learn WordPress, which then brought me to learning more advanced web development and design concepts.
+
+Almost immediately I began teaching myself CSS — because I really wanted to dig in and change the design on my travel blog. This also led me to start learning Bootstrap (a responsive, front-end framework) because at the time my WordPress theme was built on Bootstrap. In fact to this day I still use Bootstrap frequently!
+
+It wasn’t until I returned home from Thailand that I buckled down and began to learn more intermediate/advanced concepts. This was mostly due to the fact I was able to attend in-person classes and workshops that were available in my area.
+
+In the early days, I was so hungry to learn anything and everything that I took many multiple workshops on a range of topics (mostly through Girl Develop It). I ended up doing 7 workshops within 3 months. Workshops included Photoshop, SQL, JavaScript, Ruby on Rails, and more.
+
+Today, my focus is much more pointed. (Thank goodness!) Nowadays, I really only do work relating to WordPress, front-end dev (like HTML, CSS and now Sass and Stylus, and JavaScript), and, of course, Meteor, a full stack JavaScript framework.
+
+Nonetheless, I don’t fully regret all the experimentation I did early on. There were a few instances where I felt like, “Wow, this isn’t for me,” and then of course the opposite. For example, I always enjoyed styling web pages with CSS and related front-end development.
+Without a doubt, learning how to build websites and now small web applications has changed my life for the better.
+
+It has not only impacted my professional journey, but also aspects of my personal life – all in ways I never imagined when I first began tinkering on WordPress two years ago.
+Here are ten ways that learning how to build websites (and now more advanced web applications) has changed my life.
+1. I Have Freedom to Make My Own Schedule
+This is probably the most cited benefit of those who leave the traditional 9-5 cubicle job.
+
+Because when you work for yourself, you have the ability to create your own schedule.
+Sure, there are deadlines. There are meetings. But you always have some control over when, where and what time.
+
+In the past, even when I was teaching in Thailand, I had to be at X place at X time – Monday thru Friday. Nowadays, I love having the option to take a day off mid-week, but then make up for it on a Saturday.
+2. I Earn More, But Work Fewer Hours
+I am still a relative newbie in the web development space with about two years of experience. So I am not yet charging premium rates.
+Nonetheless, many developers with more experience can easily charge over $100 an hour for freelance or contract work. And, when it comes to hourly rates, the sky is the limit. (I’ve seen web-related consultants charging a lot more than $100 an hour. Of course – typically with 10+ years experience and a portfolio with high-profile testimonials to back it up.)
+
+In any case, even for me the more tech skills and experience I acquire, the more I earn per hour.
+And because of this, I am now able to work fewer hours a week, but still take home a comparable amount to what I would be at another job.
+3. I Can Say “No” to Job Offers
+I recall not too long ago clawing for part-time jobs, projects, and assignments. Basically taking anything I could get – even if the compensation was less than ideal.
+
+However, as I have become stronger with web development, this is no longer the case. Nowadays I can just say, “No, thanks” to uninteresting job offers without worry or hesitation, because I know there will be other opportunities that come my way.
+4. People Come to ME Asking if I Can Work for THEM
+Who would have thought that me, a girl from Bethlehem, Pennsylvania, would have people around the world sending inquiries, asking if i’d like to join their team?
+
+The truth is: I am far from the exception.
+
+Having recruiters, HR people, companies, etc. reach out with work propositions happens all the time to developers and software engineers.
+
+In fact, I have seen spelled out on several more established people’s online resumes or LinkedIn accounts that they are “not seeking work at this time.”
+
+Meaning that developers and software engineers are so bombarded with work requests that they end up specifying that they are not looking for any new opportunities. They ask not to be contacted. Seriously – in what other industry does this happen!?!
+5. I Never Have to Deal with the Tedious Online Job Application Process
+Coinciding with unasked job offers, I now get to avoid the dreaded online application process.
+While I am all about networking, having a solid LinkedIn profile, and so forth – I dread the laborious online job application. You know, the ones that ask a ton of questions, involve uploading resumes and other documents, and can take a lengthy amount of time.
+Fortunately, with more skills and experience gained, the more this becomes a distant memory. Which I could not be happier about.
+6. I Have Extra Time to Pursue Interests
+Along with being able to work fewer hours a week comes the opportunity to spend more time on other things: like hobbies, passions or family time.
+
+Personally, I love to write as well as travel.
+
+With this free time, I have created a blog geared towards beginners learning how to code. (Fitting, right!?)
+
+As it turns out, this site has brought me so much joy, not to mention other opportunities, like getting to meet new people and other work-related ones.
+
+Nonetheless, if I didn’t have this spare time, I wouldn’t be able to work on the site. And if I didn’t have the site, I don’t know where I would be today. As dramatic as it sounds, I can’t imagine my life without that blog.
+7. I Can (and Do) Work Remotely
+When you work with technology, there are more opportunities to work online, or remotely. Meaning it doesn’t matter where you are – on vacation, at home or at Starbucks – as long as you’re doing your assignment.
+
+Above I mentioned that I love to travel. And I do so especially in East Asia. (To date, I have been to 13 different countries in East Asia!)
+
+In any case, from January to April of 2014 I went back again after teaching in Thailand. It was an amazing experience where I got to visit 6 different countries and over 15 cities.
+
+You may be wondering how the heck I took off for nearly three months to travel. But guess what? I was working the whole time!
+
+Admittedly, I worked fewer hours than I do back home in the US. But that was by choice. I very well could have worked a ton while traveling. However, I chose to spend more time embracing my trip than working.
+
+Without these employable skills, namely HTML, CSS, and being able to build WordPress sites, I never would have been able to go on that three month exploration.
+8. It’s Easy for Me to Make Side Project Dreams into Reality
+If you’re anything like me, you probably always have new amazing ideas that you’d like to act on – fast.
+
+Knowing how to build a website or prototype a web app allows me to do just that, without hiring a developer. (Which also saves money.)
+
+This alone – building side projects – was one of the core reasons I began dedicating more time to learning how to build custom web apps, not just making WordPress or eCommerce sites.
+I’d guess that 98% of the sites we use day in and out could be classified as web apps. Most blogs, or news sites, and eCommerce sites are web apps. However, content management systems (or CMS) like WordPress or Magento (which does eCommerce) make it easy for even the novice to build a site on said platforms. (FYI: there are tons of CMS’s out there.)
+
+However, as wonderful as these CMS’s are, they do come with limitations. More than just limitations, many come with bloat. (Basically, a ton of features and components that you may not even need.)
+
+A simple web application that I have been trying to build recently is similar to an online quiz. Basically, anyone can visit the site and go through a quiz where at the end results would be given based on their responses.
+
+In this instance, the entire quiz could be executed right in the browser with JavaScript alone. Meaning a person could not come back in the future and see results of their quiz — because nothing is being stored in a database.
+
+Depending on which definition you consult, this scenario may or may not be classified as a web application.
+
+Nonetheless, simply adding user accounts to this quiz example would definitely make it a web app. Because now, information and quiz results for each user will be stored on a database. Meaning, in the future, a user can come back to the site, login and retrieve previous results.
+9. I Am Part of a Top Secret Club (a.k.a., the Tech Community)
+Knowing how to build my own stuff is awesome.
+
+But you know what else is amazing? Being able to understand technical conversations going on around me. It’s like being part of some secret society. Plus, it is very reassuring of my progress.
+
+For example, a few months ago I was walking near MIT in Cambridge. There were two guys behind me, clearly MIT students, discussing the difference between building some sort of software application with Python versus another language, and I actually understood the gist of the conversation.
+
+Me, comprehending a technical discussion between two MIT students. Who would have thought?
+
+It can be so frustrating learning to code. But at that moment I felt accomplished because it proved that I truly had learned something. (Despite all the other days where I think, “I am so lost!”)
+
+Moreover, being able to grasp technical conversations allows me to actively partake in discussions at local tech meet-ups and similar settings. Which in itself has multiple benefits – including potential new job opportunities.
+10. I Have a Sense of Self-Reliance and Empowerment
+Overall, leveling up my tech skills has allowed me to obtain a greater sense of self-reliance. Like I can tame the wilds on the web all on my own.
+
+Furthermore, after building a website or application – even a simple one – there is always a feeling of accomplishment. Even reaching a pivotal point on a project or overcoming a problem that has been taking several days to solve can bring on that feeling of achievement.
+It’s All Pretty Empowering
+Everyone has different reasons for wanting to learn how to build websites or applications. When I first decided to dedicate time to learning HTML, CSS, and other basics, it was primarily to earn more money. I saw all these web development jobs in high demand. I also noticed digital skills listed across all sorts of job descriptions. It made sense to get a hold on these desired skills.
+
+However, as I’ve evolved, it’s become much more than earning extra money.
+
+Today, my main motivation to keep gaining skills is not earning more. Instead, I am inspired by creating my own websites/applications, learning from new experiences, and helping others. Which is exactly what I get to do every day.
+
+And I couldn’t be happier.
+
+
